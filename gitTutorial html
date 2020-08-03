@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head><title>Git Tutorial Notes</title></head>
+
+<body>
+
+<h2>Git Tutorial Notes</h2>
+<h3>What is Git</h3>
+<p>
+	<ul>
+		<li>a version control system (vcs) for tracking changes in computer files</li>
+		<li> it is a distributed (decentralised) version control system, it allows for coordination between multiple developers.</li>
+		<li>it tracks changes (when changes were made and by who)</li>
+		<li> it allows you to revert back at any time by keeping prevous version of your files</li>
+		<li> it allows for local and remote repos</li>
+	</ul>
+	
+	<h3>Concepts of Git</h3>
+	<ul>
+		<li>Keeps track of code history</li>
+		<li>Takes "snapshots" of your files</li>
+		<li>You decide when to take a snapshot by making a "commit"</li>
+		<li>You can visit any snapshot at any time</li>
+		<li>You can stage files before commiting</li>
+	</ul>
+
+	<h3>Basic Commands</h3>
+	<ul> $ git init <hr> initialise a local git repository (project), creates a .git folder which is hidden in the project</ul>
+	<ul> $ git add "files" <hr> adds file(s) to index
+
+
+
+</body>
+</html>
